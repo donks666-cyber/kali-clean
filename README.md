@@ -12,6 +12,11 @@ After cloning the repo just run ./install.sh from a non-root user. This updates 
 
 After the script is done reboot and select i3 (top right corner) on the login screen. Then open a terminal (`ctrl+return`) run `lxappearance`and select ark-dark theme and change the icons to whatever you like (I used papyrus).
 
+## Screenshots
+
+![Screenshot 1](Snipaste_2026-06-01_15-26-32.png)
+![Screenshot 2](Snipaste_2026-06-01_15-26-56.png)
+
 ## 繁體中文說明
 
 這是我在 Kali 上的 i3 桌面環境配置。複製倉庫後，以非 root 使用者執行 `./install.sh` 即可開始安裝。此腳本會更新 Kali 並安裝大量套件，因此需要一些時間，歡迎自行優化 ;)
