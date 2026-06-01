@@ -23,7 +23,4 @@ Wallpaper by Wenqing Yan ( https://www.yuumeiart.com/ )
 
 ## Changelog
 
-- **2026-06-01**: Initial push & fixes
-  - Updated i3blocks config and install script
-  - Added screenshots
-  - Removed unnecessary i3-gaps directory
+- **2026-06-01**: Fixed i3blocks config
