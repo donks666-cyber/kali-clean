@@ -32,6 +32,7 @@ Wallpaper by Wenqing Yan ( https://www.yuumeiart.com/ )
 - **2026-06-01**: Initial push & fixes
   - Updated i3blocks config and install script
   - Added i3-gaps as tracked files (fixed nested git submodule issue)
+  - Removed unnecessary i3-gaps directory
   - Pushed to `donks666-cyber/kali-clean`
 
 ## 更新紀錄
@@ -39,4 +40,5 @@ Wallpaper by Wenqing Yan ( https://www.yuumeiart.com/ )
 - **2026-06-01**：初始推送與修復
   - 更新 i3blocks 配置與安裝腳本
   - 將 i3-gaps 加入版本控制（修復嵌套 git 子模組問題）
+  - 移除不必要的 i3-gaps 目錄
   - 推送至 `donks666-cyber/kali-clean`
