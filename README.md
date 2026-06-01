@@ -14,4 +14,11 @@ After the script is done reboot and select i3 (top right corner) on the login sc
 
 ## Credits
 
-Wallpaper by Wenqing Yan ( https://www.yuumeiart.com/ ) 
+Wallpaper by Wenqing Yan ( https://www.yuumeiart.com/ )
+
+## Changelog
+
+- **2026-06-01**: Initial push & fixes
+  - Updated i3blocks config and install script
+  - Added i3-gaps as tracked files (fixed nested git submodule issue)
+  - Pushed to `donks666-cyber/kali-clean`
